@@ -9,7 +9,7 @@ CineSphere is a Netflix clone built using only HTML and CSS. This project replic
 - Well-structured and maintainable HTML & CSS code
 
 ## Live Demo
-[Live Preview](cine-sphere-ashy.vercel.app) (Add link when deploye)
+[cine-sphere-ashy.vercel.app](#) (Add link when deploye)
 
 ## Installation
 1. Clone the repository:
