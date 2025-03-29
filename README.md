@@ -1,6 +1,6 @@
-# CineSphere - Netflix Clone
+# CineSphere 
 
-CineSphere is a Netflix clone built using only HTML and CSS. This project replicates the Netflix homepage with a responsive design and aesthetic appeal.
+CineSphere is a Movie Website built using only HTML and CSS. This project replicates the Netflix homepage with a responsive design and aesthetic appeal.
 
 ## Features
 - Responsive layout for desktop and mobile screens
