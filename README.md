@@ -28,10 +28,7 @@ CineSphere/
 │── README.md           # Project documentation
 ```
 
-## Roadmap
-- [ ] Add three unique features using only HTML and CSS
-- [ ] Improve responsiveness for various screen sizes
-- [ ] Optimize CSS for better performance
+
 
 
 
